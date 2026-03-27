@@ -1,6 +1,4 @@
-# Sparse Autoencoders — Monosemantic Feature Discovery
-
-**University of Hertfordshire | Machine Learning and Neural Networks | 2025**
+# Sparse Autoencoders Monosemantic Feature Discovery
 
 > Learn interpretable dictionaries from neural networks. From polysemantic neurons to monosemantic features.
 
@@ -32,7 +30,7 @@ pip install torch matplotlib numpy scipy
 jupyter notebook sparse_autoencoder_tutorial.ipynb
 ```
 
-No dataset download required — synthetic sparse-dictionary data is generated in the notebook.
+No dataset download required synthetic sparse-dictionary data is generated in the notebook.
 
 ---
 
@@ -60,6 +58,3 @@ No dataset download required — synthetic sparse-dictionary data is generated i
 
 ---
 
-## Licence
-
-MIT — free to use, adapt, and share with attribution.
